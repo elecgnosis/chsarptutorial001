@@ -1,0 +1,6 @@
+E:\WSPRSTOR\visualstudio\csharptutorial001\csharptutorial001\bin\Debug\csharptutorial001.exe.config
+E:\WSPRSTOR\visualstudio\csharptutorial001\csharptutorial001\bin\Debug\csharptutorial001.exe
+E:\WSPRSTOR\visualstudio\csharptutorial001\csharptutorial001\bin\Debug\csharptutorial001.pdb
+E:\WSPRSTOR\visualstudio\csharptutorial001\csharptutorial001\obj\Debug\csharptutorial001.csprojResolveAssemblyReference.cache
+E:\WSPRSTOR\visualstudio\csharptutorial001\csharptutorial001\obj\Debug\csharptutorial001.exe
+E:\WSPRSTOR\visualstudio\csharptutorial001\csharptutorial001\obj\Debug\csharptutorial001.pdb
